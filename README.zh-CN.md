@@ -97,24 +97,7 @@ npx skills add full-statck-skills/tauri-skills --skill <skill-name>
 
 ## 🤖 支持的智能体
 
-适用于 [Claude Code](https://code.claude.com)、[Codex](https://developers.openai.com/codex)、[Cursor](https://cursor.com)、[OpenCode](https://opencode.ai)、[Gemini CLI](https://geminicli.com)、[GitHub Copilot](https://github.com/features/copilot)、[Windsurf](https://codeium.com/windsurf) 及 [70+ 其他平台](https://agentskills.io/clients)。
-
-### Claude Code 安装
-
-**方式一：npx skills CLI（推荐）**
-
-```bash
-npx skills add full-statck-skills/tauri-skills
-```
-
-**方式二：手动安装**
-
-```bash
-git clone https://github.com/full-statck-skills/tauri-skills.git
-cp -r tauri-skills/skills/* .claude/skills/
-```
-
-更多详情请参阅 [Claude Code 技能指南](https://code.claude.com/docs/en/skills) 和 [Agent Skills 规范](https://agentskills.io/)。
+适用于 [Claude Code](https://code.claude.com)、[Codex](https://developers.openai.com/codex)、[Cursor](https://cursor.com)、[OpenCode](https://opencode.ai)、[Gemini CLI](https://geminicli.com)、[GitHub Copilot](https://github.com/features/copilot)、[Windsurf](https://codeium.com/windsurf) 及 [70+ 其他智能体](https://agentskills.io/clients)。
 
 ## 🌐 生态
 
