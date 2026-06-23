@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/tauri-skills",
-  "repository": "https://github.com/full-statck-skills/tauri-skills",
+  "homepage": "https://github.com/full-stack-skills/tauri-skills",
+  "repository": "https://github.com/full-stack-skills/tauri-skills",
   "source": "./",
   "skills": [
     "./skills/tauri-app-autostart",
