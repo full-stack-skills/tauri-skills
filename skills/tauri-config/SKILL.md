@@ -1,7 +1,7 @@
 ---
 name: tauri-config
 description: Guidance for Tauri v2 tauri.conf.json structure, lifecycle management, and CSP configuration.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

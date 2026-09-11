@@ -1,7 +1,7 @@
 ---
 name: tauri-app-file-system
 description: Guidance for Tauri v2 file-system plugin with scoped access and safe file operations.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

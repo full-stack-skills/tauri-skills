@@ -1,7 +1,7 @@
 ---
 name: tauri-ipc
 description: Guidance for Tauri v2 IPC with frontend invoke calls, Rust commands, and type-safe bindings.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

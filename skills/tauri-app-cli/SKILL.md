@@ -1,7 +1,7 @@
 ---
 name: tauri-app-cli
 description: Guidance for Tauri v2 CLI plugin with argument schema and app command routing.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 name: tauri-security
 description: Guidance for Tauri v2 capabilities, scope configuration, and ACL-based permission control.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

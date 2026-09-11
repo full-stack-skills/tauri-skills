@@ -1,7 +1,7 @@
 ---
 name: tauri-app-window-state
 description: Guidance for Tauri v2 window-state plugin to persist window size and position.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

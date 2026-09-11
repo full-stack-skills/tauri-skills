@@ -1,7 +1,7 @@
 ---
 name: tauri-mobile
 description: Guidance for Tauri v2 mobile development setup, debugging, and bundle identifiers.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

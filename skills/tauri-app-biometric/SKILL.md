@@ -1,7 +1,7 @@
 ---
 name: tauri-app-biometric
 description: Guidance for Tauri v2 biometric plugin with authentication flow and fallback strategy.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

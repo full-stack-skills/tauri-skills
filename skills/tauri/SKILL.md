@@ -1,7 +1,7 @@
 ---
 name: tauri
 description: Comprehensive index for Tauri framework development, including Rust backend, frontend integration, and full plugin ecosystem. Acts as a router to specialized sub-skills with local examples and templates.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

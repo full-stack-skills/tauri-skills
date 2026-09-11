@@ -1,7 +1,7 @@
 ---
 name: tauri-app-window-menu
 description: Guidance for Tauri v2 window menu definition, event handling, and shortcuts.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

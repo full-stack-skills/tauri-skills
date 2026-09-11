@@ -1,7 +1,7 @@
 ---
 name: tauri-app-splashscreen
 description: Guidance for Tauri v2 splashscreen setup and lifecycle control to avoid white screens.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

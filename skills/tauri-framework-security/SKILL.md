@@ -1,7 +1,7 @@
 ---
 name: tauri-framework-security
 description: Guidance for Tauri v2 security model, baseline hardening, and runtime authority controls.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

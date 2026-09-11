@@ -1,7 +1,7 @@
 ---
 name: tauri-app-notification
 description: Guidance for Tauri v2 notification plugin with permission flow and click handling.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 name: tauri-app-persisted-scope
 description: Guidance for Tauri v2 persisted-scope plugin with expiration and revocation flows.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 name: tauri-app-system-tray
 description: Guidance for Tauri v2 system tray interactions and platform behavior differences.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

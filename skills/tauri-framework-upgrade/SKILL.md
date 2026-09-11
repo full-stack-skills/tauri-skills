@@ -1,7 +1,7 @@
 ---
 name: tauri-framework-upgrade
 description: Guidance for upgrading to stable Tauri v2 from v1 or v2 beta with migration checks.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

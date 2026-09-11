@@ -1,7 +1,7 @@
 ---
 name: tauri-app-upload
 description: Guidance for Tauri v2 upload plugin with file transfer, progress reporting, and headers.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

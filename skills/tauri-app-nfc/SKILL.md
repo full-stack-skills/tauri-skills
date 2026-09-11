@@ -1,7 +1,7 @@
 ---
 name: tauri-app-nfc
 description: Guidance for Tauri v2 NFC plugin with session handling and data validation.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

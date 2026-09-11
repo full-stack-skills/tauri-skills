@@ -1,7 +1,7 @@
 ---
 name: tauri-app-stronghold
 description: Guidance for Tauri v2 stronghold plugin with encrypted storage and sensitive data handling.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 name: tauri-app-barcode-scanner
 description: Guidance for Tauri v2 barcode scanner plugin with permissions and scan lifecycle.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 name: tauri-app-opener
 description: Guidance for Tauri v2 opener plugin with safe external links and file handling.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

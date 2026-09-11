@@ -1,7 +1,7 @@
 ---
 name: tauri-app-sql
 description: Guidance for Tauri v2 SQL plugin setup, migrations, and safe query access.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 name: tauri-app-wasm
 description: Guidance for running Rust-compiled WASM in the Tauri v2 frontend.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

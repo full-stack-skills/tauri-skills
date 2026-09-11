@@ -1,7 +1,7 @@
 ---
 name: tauri-app-geolocation
 description: Guidance for Tauri v2 geolocation plugin with permission handling and privacy controls.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

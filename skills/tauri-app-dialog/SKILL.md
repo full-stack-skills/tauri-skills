@@ -1,7 +1,7 @@
 ---
 name: tauri-app-dialog
 description: Guidance for Tauri v2 dialog plugin with native dialogs and unified API design.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

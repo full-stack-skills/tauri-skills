@@ -1,7 +1,7 @@
 ---
 name: tauri-window
 description: Guidance for Tauri v2 window creation, configuration, lifecycle management, and custom titlebar UI.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

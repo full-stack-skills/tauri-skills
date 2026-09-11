@@ -1,7 +1,7 @@
 ---
 name: tauri-app-websocket
 description: Guidance for Tauri v2 websocket plugin with Rust-managed connections and lifecycle handling.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

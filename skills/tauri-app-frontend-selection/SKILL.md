@@ -1,7 +1,7 @@
 ---
 name: tauri-app-frontend-selection
 description: Guidance for selecting and configuring frontend frameworks for Tauri v2 with static export compatibility.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

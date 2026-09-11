@@ -1,7 +1,7 @@
 ---
 name: tauri-app-creator
 description: Guidance for creating Tauri v2 projects using official create-tauri-app workflows and minimal run verification.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

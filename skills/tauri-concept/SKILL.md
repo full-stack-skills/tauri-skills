@@ -1,7 +1,7 @@
 ---
 name: tauri-concept
 description: Guidance for Tauri v2 architecture concepts, process model, and IPC isolation patterns.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

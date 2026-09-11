@@ -1,7 +1,7 @@
 ---
 name: tauri-scaffold
 description: Guidance for Tauri v2 project scaffolding with create-tauri-app, project structure, and frontend static export configuration.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

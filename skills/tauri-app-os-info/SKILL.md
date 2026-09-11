@@ -1,7 +1,7 @@
 ---
 name: tauri-app-os-info
 description: Guidance for Tauri v2 os-info plugin with safe system diagnostics and reporting.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

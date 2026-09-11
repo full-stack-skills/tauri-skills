@@ -1,7 +1,7 @@
 ---
 name: tauri-app-develop
 description: Guidance for Tauri v2 daily development workflow, debugging, resources, sidecar usage, and testing strategies.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 name: tauri-app-sidecar-nodejs
 description: Guidance for Tauri v2 sidecar Node.js integration with lifecycle and packaging.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

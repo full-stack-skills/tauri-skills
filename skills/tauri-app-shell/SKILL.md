@@ -1,7 +1,7 @@
 ---
 name: tauri-app-shell
 description: Guidance for Tauri v2 shell plugin with secure command execution and open behavior.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

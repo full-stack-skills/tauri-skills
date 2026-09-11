@@ -1,7 +1,7 @@
 ---
 name: tauri-app-updater
 description: Guidance for Tauri v2 updater plugin with OTA updates and signing keys.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

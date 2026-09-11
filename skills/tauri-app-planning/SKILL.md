@@ -1,7 +1,7 @@
 ---
 name: tauri-app-planning
 description: Comprehensive project planning, requirements analysis, and architectural orchestration for Tauri 2.0 applications.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

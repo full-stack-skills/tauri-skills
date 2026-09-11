@@ -1,7 +1,7 @@
 ---
 name: tauri-app-store
 description: Guidance for Tauri v2 store plugin with key-value persistence and lazy loading.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

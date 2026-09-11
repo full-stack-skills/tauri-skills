@@ -1,7 +1,7 @@
 ---
 name: tauri-app-haptics
 description: Guidance for Tauri v2 haptics plugin with feedback patterns and graceful fallback.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

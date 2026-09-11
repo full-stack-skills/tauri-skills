@@ -1,7 +1,7 @@
 ---
 name: tauri-app-positioner
 description: Guidance for Tauri v2 positioner plugin with multi-display alignment strategies.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

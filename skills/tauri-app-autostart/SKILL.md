@@ -1,7 +1,7 @@
 ---
 name: tauri-app-autostart
 description: Guidance for Tauri v2 autostart setup with platform differences and rollback.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

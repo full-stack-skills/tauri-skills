@@ -1,7 +1,7 @@
 ---
 name: tauri-app-localhost
 description: Guidance for Tauri v2 localhost plugin with local service access and minimal exposure.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

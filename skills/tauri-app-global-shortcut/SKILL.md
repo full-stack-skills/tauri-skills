@@ -1,7 +1,7 @@
 ---
 name: tauri-app-global-shortcut
 description: Guidance for Tauri v2 global-shortcut plugin with conflict handling and release.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

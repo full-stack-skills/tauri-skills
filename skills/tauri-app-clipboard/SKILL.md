@@ -1,7 +1,7 @@
 ---
 name: tauri-app-clipboard
 description: Guidance for Tauri v2 clipboard plugin with safe copy, paste, and monitoring flows.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 name: tauri-app-single-instance
 description: Guidance for Tauri v2 single-instance behavior and second-launch argument handling.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

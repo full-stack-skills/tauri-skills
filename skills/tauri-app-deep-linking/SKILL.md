@@ -1,7 +1,7 @@
 ---
 name: tauri-app-deep-linking
 description: Guidance for Tauri v2 deep-linking plugin with URL schemes and safe routing.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

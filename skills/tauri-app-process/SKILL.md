@@ -1,7 +1,7 @@
 ---
 name: tauri-app-process
 description: Guidance for Tauri v2 process plugin with controlled process information exposure.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

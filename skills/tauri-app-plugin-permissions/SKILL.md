@@ -1,7 +1,7 @@
 ---
 name: tauri-app-plugin-permissions
 description: Guidance for Tauri v2 plugin permission authoring, capability generation, and platform differences.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

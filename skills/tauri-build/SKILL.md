@@ -1,7 +1,7 @@
 ---
 name: tauri-build
 description: Guidance for Tauri v2 production builds, signing, and distribution artifacts.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

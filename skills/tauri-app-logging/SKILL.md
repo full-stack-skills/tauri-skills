@@ -1,7 +1,7 @@
 ---
 name: tauri-app-logging
 description: Guidance for Tauri v2 logging plugin with levels, filtering, and safe diagnostics.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

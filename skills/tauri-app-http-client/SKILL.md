@@ -1,7 +1,7 @@
 ---
 name: tauri-app-http-client
 description: Guidance for Tauri v2 http-client plugin with allowlisted requests and secure transport.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 
