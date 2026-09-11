@@ -128,3 +128,5 @@ For more details, see the [Claude Code Skills Guide](https://code.claude.com/doc
 ## 📄 License
 
 Apache 2.0 — see [LICENSE](LICENSE).
+
+Third-party attribution notices: see [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
