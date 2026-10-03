@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri Concept"
+  short_description: "Tauri v2 architecture concepts, process model, and IPC…"
+  default_prompt: "Use $tauri-concept to help with my current task: Guidance for Tauri v2 architecture concepts, process model, and IPC isolation patterns."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri"
+  short_description: "Comprehensive index for Tauri framework development, including…"
+  default_prompt: "Use $tauri to help with my current task: Comprehensive index for Tauri framework development, including Rust backend, frontend integration, and full plugin ecosystem."

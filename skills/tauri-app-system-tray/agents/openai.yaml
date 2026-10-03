@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App System Tray"
+  short_description: "Tauri v2 system tray interactions and platform behavior…"
+  default_prompt: "Use $tauri-app-system-tray to help with my current task: Guidance for Tauri v2 system tray interactions and platform behavior differences."

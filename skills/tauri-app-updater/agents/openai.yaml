@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Updater"
+  short_description: "Tauri v2 updater plugin with OTA updates and signing keys."
+  default_prompt: "Use $tauri-app-updater to help with my current task: Guidance for Tauri v2 updater plugin with OTA updates and signing keys."

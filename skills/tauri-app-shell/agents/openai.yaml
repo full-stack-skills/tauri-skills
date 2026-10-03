@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Shell"
+  short_description: "Tauri v2 shell plugin with secure command execution and open…"
+  default_prompt: "Use $tauri-app-shell to help with my current task: Guidance for Tauri v2 shell plugin with secure command execution and open behavior."

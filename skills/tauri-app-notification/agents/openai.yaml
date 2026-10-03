@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Notification"
+  short_description: "Tauri v2 notification plugin with permission flow and click…"
+  default_prompt: "Use $tauri-app-notification to help with my current task: Guidance for Tauri v2 notification plugin with permission flow and click handling."

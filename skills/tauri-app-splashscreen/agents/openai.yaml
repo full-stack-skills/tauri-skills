@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Splashscreen"
+  short_description: "Tauri v2 splashscreen setup and lifecycle control to avoid…"
+  default_prompt: "Use $tauri-app-splashscreen to help with my current task: Guidance for Tauri v2 splashscreen setup and lifecycle control to avoid white screens."

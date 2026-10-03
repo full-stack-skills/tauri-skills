@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Logging"
+  short_description: "Tauri v2 logging plugin with levels, filtering, and safe…"
+  default_prompt: "Use $tauri-app-logging to help with my current task: Guidance for Tauri v2 logging plugin with levels, filtering, and safe diagnostics."

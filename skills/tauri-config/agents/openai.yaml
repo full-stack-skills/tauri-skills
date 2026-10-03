@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri Config"
+  short_description: "Tauri v2 tauri.conf.json structure, lifecycle management, and…"
+  default_prompt: "Use $tauri-config to help with my current task: Guidance for Tauri v2 tauri.conf.json structure, lifecycle management, and CSP configuration."

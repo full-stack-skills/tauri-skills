@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri Scaffold"
+  short_description: "Tauri v2 project scaffolding with create-tauri-app, project…"
+  default_prompt: "Use $tauri-scaffold to help with my current task: Guidance for Tauri v2 project scaffolding with create-tauri-app, project structure, and frontend static export configuration."

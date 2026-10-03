@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Upload"
+  short_description: "Tauri v2 upload plugin with file transfer, progress reporting…"
+  default_prompt: "Use $tauri-app-upload to help with my current task: Guidance for Tauri v2 upload plugin with file transfer, progress reporting, and headers."

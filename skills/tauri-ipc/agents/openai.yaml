@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri Ipc"
+  short_description: "Tauri v2 IPC with frontend invoke calls, Rust commands, and…"
+  default_prompt: "Use $tauri-ipc to help with my current task: Guidance for Tauri v2 IPC with frontend invoke calls, Rust commands, and type-safe bindings."

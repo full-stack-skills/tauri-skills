@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Dialog"
+  short_description: "Tauri v2 dialog plugin with native dialogs and unified API…"
+  default_prompt: "Use $tauri-app-dialog to help with my current task: Guidance for Tauri v2 dialog plugin with native dialogs and unified API design."

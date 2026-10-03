@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Frontend Selection"
+  short_description: "selecting and configuring frontend frameworks for Tauri v2…"
+  default_prompt: "Use $tauri-app-frontend-selection to help with my current task: Guidance for selecting and configuring frontend frameworks for Tauri v2 with static export compatibility."

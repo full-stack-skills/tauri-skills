@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri Mobile"
+  short_description: "Tauri v2 mobile development setup, debugging, and bundle…"
+  default_prompt: "Use $tauri-mobile to help with my current task: Guidance for Tauri v2 mobile development setup, debugging, and bundle identifiers."

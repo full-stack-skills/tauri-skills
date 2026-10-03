@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri Setup"
+  short_description: "Tauri v2 prerequisites and environment setup across macOS…"
+  default_prompt: "Use $tauri-setup to help with my current task: Guidance for Tauri v2 prerequisites and environment setup across macOS, Windows, Linux, and mobile Android iOS targets."

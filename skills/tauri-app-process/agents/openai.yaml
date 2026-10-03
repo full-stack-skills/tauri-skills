@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Process"
+  short_description: "Tauri v2 process plugin with controlled process information…"
+  default_prompt: "Use $tauri-app-process to help with my current task: Guidance for Tauri v2 process plugin with controlled process information exposure."

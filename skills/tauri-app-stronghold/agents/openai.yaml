@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Stronghold"
+  short_description: "Tauri v2 stronghold plugin with encrypted storage and…"
+  default_prompt: "Use $tauri-app-stronghold to help with my current task: Guidance for Tauri v2 stronghold plugin with encrypted storage and sensitive data handling."

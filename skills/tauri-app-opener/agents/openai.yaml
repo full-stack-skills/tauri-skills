@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Opener"
+  short_description: "Tauri v2 opener plugin with safe external links and file…"
+  default_prompt: "Use $tauri-app-opener to help with my current task: Guidance for Tauri v2 opener plugin with safe external links and file handling."

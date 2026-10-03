@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Persisted Scope"
+  short_description: "Tauri v2 persisted-scope plugin with expiration and revocation…"
+  default_prompt: "Use $tauri-app-persisted-scope to help with my current task: Guidance for Tauri v2 persisted-scope plugin with expiration and revocation flows."

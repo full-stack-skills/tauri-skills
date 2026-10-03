@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Haptics"
+  short_description: "Tauri v2 haptics plugin with feedback patterns and graceful…"
+  default_prompt: "Use $tauri-app-haptics to help with my current task: Guidance for Tauri v2 haptics plugin with feedback patterns and graceful fallback."

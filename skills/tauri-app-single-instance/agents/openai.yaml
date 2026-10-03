@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Single Instance"
+  short_description: "Tauri v2 single-instance behavior and second-launch argument…"
+  default_prompt: "Use $tauri-app-single-instance to help with my current task: Guidance for Tauri v2 single-instance behavior and second-launch argument handling."

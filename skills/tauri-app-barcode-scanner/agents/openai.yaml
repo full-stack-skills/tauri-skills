@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Barcode Scanner"
+  short_description: "Tauri v2 barcode scanner plugin with permissions and scan…"
+  default_prompt: "Use $tauri-app-barcode-scanner to help with my current task: Guidance for Tauri v2 barcode scanner plugin with permissions and scan lifecycle."

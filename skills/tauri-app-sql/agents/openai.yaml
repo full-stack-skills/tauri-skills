@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App SQL"
+  short_description: "Tauri v2 SQL plugin setup, migrations, and safe query access."
+  default_prompt: "Use $tauri-app-sql to help with my current task: Guidance for Tauri v2 SQL plugin setup, migrations, and safe query access."

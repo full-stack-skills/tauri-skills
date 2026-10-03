@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Store"
+  short_description: "Tauri v2 store plugin with key-value persistence and lazy…"
+  default_prompt: "Use $tauri-app-store to help with my current task: Guidance for Tauri v2 store plugin with key-value persistence and lazy loading."

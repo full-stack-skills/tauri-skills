@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Os Info"
+  short_description: "Tauri v2 os-info plugin with safe system diagnostics and…"
+  default_prompt: "Use $tauri-app-os-info to help with my current task: Guidance for Tauri v2 os-info plugin with safe system diagnostics and reporting."

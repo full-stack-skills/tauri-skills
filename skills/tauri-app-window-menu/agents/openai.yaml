@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Window Menu"
+  short_description: "Tauri v2 window menu definition, event handling, and shortcuts."
+  default_prompt: "Use $tauri-app-window-menu to help with my current task: Guidance for Tauri v2 window menu definition, event handling, and shortcuts."

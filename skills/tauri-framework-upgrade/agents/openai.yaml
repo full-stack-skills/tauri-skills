@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri Framework Upgrade"
+  short_description: "upgrading to stable Tauri v2 from v1 or v2 beta with migration…"
+  default_prompt: "Use $tauri-framework-upgrade to help with my current task: Guidance for upgrading to stable Tauri v2 from v1 or v2 beta with migration checks."

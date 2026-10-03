@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Global Shortcut"
+  short_description: "Tauri v2 global-shortcut plugin with conflict handling and…"
+  default_prompt: "Use $tauri-app-global-shortcut to help with my current task: Guidance for Tauri v2 global-shortcut plugin with conflict handling and release."

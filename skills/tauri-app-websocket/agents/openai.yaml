@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App WebSocket"
+  short_description: "Tauri v2 websocket plugin with Rust-managed connections and…"
+  default_prompt: "Use $tauri-app-websocket to help with my current task: Guidance for Tauri v2 websocket plugin with Rust-managed connections and lifecycle handling."

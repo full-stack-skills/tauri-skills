@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri Framework Security"
+  short_description: "Tauri v2 security model, baseline hardening, and runtime…"
+  default_prompt: "Use $tauri-framework-security to help with my current task: Guidance for Tauri v2 security model, baseline hardening, and runtime authority controls."

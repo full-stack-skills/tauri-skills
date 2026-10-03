@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Localhost"
+  short_description: "Tauri v2 localhost plugin with local service access and…"
+  default_prompt: "Use $tauri-app-localhost to help with my current task: Guidance for Tauri v2 localhost plugin with local service access and minimal exposure."

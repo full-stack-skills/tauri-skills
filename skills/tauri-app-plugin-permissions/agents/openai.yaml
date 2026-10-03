@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Plugin Permissions"
+  short_description: "Tauri v2 plugin permission authoring, capability generation…"
+  default_prompt: "Use $tauri-app-plugin-permissions to help with my current task: Guidance for Tauri v2 plugin permission authoring, capability generation, and platform differences."

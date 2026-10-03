@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Planning"
+  short_description: "Comprehensive project planning, requirements analysis, and…"
+  default_prompt: "Use $tauri-app-planning to help with my current task: Comprehensive project planning, requirements analysis, and architectural orchestration for Tauri 2.0 applications."

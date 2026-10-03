@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri Security"
+  short_description: "Tauri v2 capabilities, scope configuration, and ACL-based…"
+  default_prompt: "Use $tauri-security to help with my current task: Guidance for Tauri v2 capabilities, scope configuration, and ACL-based permission control."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri Window"
+  short_description: "Tauri v2 window creation, configuration, lifecycle management…"
+  default_prompt: "Use $tauri-window to help with my current task: Guidance for Tauri v2 window creation, configuration, lifecycle management, and custom titlebar UI."

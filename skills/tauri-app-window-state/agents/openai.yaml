@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Window State"
+  short_description: "Tauri v2 window-state plugin to persist window size and…"
+  default_prompt: "Use $tauri-app-window-state to help with my current task: Guidance for Tauri v2 window-state plugin to persist window size and position."

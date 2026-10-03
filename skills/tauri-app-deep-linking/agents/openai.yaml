@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Deep Linking"
+  short_description: "Tauri v2 deep-linking plugin with URL schemes and safe routing."
+  default_prompt: "Use $tauri-app-deep-linking to help with my current task: Guidance for Tauri v2 deep-linking plugin with URL schemes and safe routing."

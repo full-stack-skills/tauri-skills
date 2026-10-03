@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App File System"
+  short_description: "Tauri v2 file-system plugin with scoped access and safe file…"
+  default_prompt: "Use $tauri-app-file-system to help with my current task: Guidance for Tauri v2 file-system plugin with scoped access and safe file operations."

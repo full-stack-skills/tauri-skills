@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Nfc"
+  short_description: "Tauri v2 NFC plugin with session handling and data validation."
+  default_prompt: "Use $tauri-app-nfc to help with my current task: Guidance for Tauri v2 NFC plugin with session handling and data validation."

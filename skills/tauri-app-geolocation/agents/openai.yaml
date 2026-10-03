@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Geolocation"
+  short_description: "Tauri v2 geolocation plugin with permission handling and…"
+  default_prompt: "Use $tauri-app-geolocation to help with my current task: Guidance for Tauri v2 geolocation plugin with permission handling and privacy controls."

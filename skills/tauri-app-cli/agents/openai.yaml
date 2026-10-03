@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App CLI"
+  short_description: "Tauri v2 CLI plugin with argument schema and app command…"
+  default_prompt: "Use $tauri-app-cli to help with my current task: Guidance for Tauri v2 CLI plugin with argument schema and app command routing."

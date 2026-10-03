@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Develop"
+  short_description: "Tauri v2 daily development workflow, debugging, resources…"
+  default_prompt: "Use $tauri-app-develop to help with my current task: Guidance for Tauri v2 daily development workflow, debugging, resources, sidecar usage, and testing strategies."

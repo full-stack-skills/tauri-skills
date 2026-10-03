@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Biometric"
+  short_description: "Tauri v2 biometric plugin with authentication flow and…"
+  default_prompt: "Use $tauri-app-biometric to help with my current task: Guidance for Tauri v2 biometric plugin with authentication flow and fallback strategy."

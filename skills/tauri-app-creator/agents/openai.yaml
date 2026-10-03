@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Creator"
+  short_description: "creating Tauri v2 projects using official create-tauri-app…"
+  default_prompt: "Use $tauri-app-creator to help with my current task: Guidance for creating Tauri v2 projects using official create-tauri-app workflows and minimal run verification."

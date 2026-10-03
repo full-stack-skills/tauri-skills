@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Positioner"
+  short_description: "Tauri v2 positioner plugin with multi-display alignment…"
+  default_prompt: "Use $tauri-app-positioner to help with my current task: Guidance for Tauri v2 positioner plugin with multi-display alignment strategies."

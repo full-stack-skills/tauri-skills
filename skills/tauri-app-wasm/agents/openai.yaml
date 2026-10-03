@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Wasm"
+  short_description: "running Rust-compiled WASM in the Tauri v2 frontend."
+  default_prompt: "Use $tauri-app-wasm to help with my current task: Guidance for running Rust-compiled WASM in the Tauri v2 frontend."

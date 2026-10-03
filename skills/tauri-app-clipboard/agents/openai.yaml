@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Clipboard"
+  short_description: "Tauri v2 clipboard plugin with safe copy, paste, and…"
+  default_prompt: "Use $tauri-app-clipboard to help with my current task: Guidance for Tauri v2 clipboard plugin with safe copy, paste, and monitoring flows."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tauri App Sidecar Node.js"
+  short_description: "Tauri v2 sidecar Node.js integration with lifecycle and…"
+  default_prompt: "Use $tauri-app-sidecar-nodejs to help with my current task: Guidance for Tauri v2 sidecar Node.js integration with lifecycle and packaging."
